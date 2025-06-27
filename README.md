@@ -107,6 +107,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 MIT
 
 📧 Contact
-Created by @your-username – feel free to reach out!
+Created by @ksamrat083 – feel free to reach out!
 
 ---
